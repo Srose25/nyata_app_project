@@ -1,4 +1,4 @@
-# NYATA
+# NYATA (Not Your Average Tracker App)
 
 Offline-first Android goal tracker, Version 0.
 
